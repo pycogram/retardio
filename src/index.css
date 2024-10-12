@@ -97,7 +97,7 @@ span{
   position: relative;
   justify-content: center;
   align-items: center;
-  border: 5px solid transparent;
+  border: 5px solid gainsboro;
   transition: var(--tran-06);
   box-shadow: var(--box-shadow);
 }
